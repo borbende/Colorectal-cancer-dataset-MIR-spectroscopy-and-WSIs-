@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a small supplementary repository to support the handling of the Multimodal colorectal cancer dataset (FT-IR spectroscopy and Whole Slide Imaging) available on Zenodo. The dataset contains data recorded from colorectal cancerous tissue samples collected from 130 patients. 9 tissue microarrays (TMA) were included in the dataset, meaning 9 Whole Slide Images and many tissue core-wise mid-infrared (MIR) measurements made up the entire dataset. Further details can be viewed in the corresponding article or in the README of the Zenodo dataset.
+This is a small supplementary repository to support the handling of the Multimodal colorectal cancer dataset (FT-IR spectroscopy and Whole Slide Imaging) available on Zenodo [10.5281/zenodo.17790337](https://doi.org/10.5281/zenodo.17790337). The dataset contains data recorded from colorectal cancerous tissue samples collected from 130 patients. 9 tissue microarrays (TMA) were included in the dataset, meaning 9 Whole Slide Images and many tissue core-wise mid-infrared (MIR) measurements made up the entire dataset. Further details can be viewed in the corresponding article or in the README of the Zenodo dataset.
 
 
 ```bash 
