@@ -11,7 +11,7 @@ training
 ├── MIR_fsm_to_txt.ipynb
 ```
 
-- MIR_fsm_to_txt.ipynb: a function that uses the specio Python package to load .fsm files and then converts them into .txt tables and generates the spatial positions of the mid-infrared spectra, while also saving the spectral metadata to a .json file.
+- <strong>MIR_fsm_to_txt.ipynb</strong>: a function that uses the specio Python package to load .fsm files and then converts them into .txt tables and generates the spatial positions of the mid-infrared spectra, while also saving the spectral metadata to a .json file.
 - CRC_data_showcase.ipynb: an example notebook for looking at the different data types in the database.
 - CRC_metadata_val.ipynb: a notebook containing some basic analysis on the main metadata files.
 - WSI_technval.ipynb: the technical validation workflow of the Whole Slide Images using OpenSlide Python complete with tissue core-wise sharpness computation and circle detection.
