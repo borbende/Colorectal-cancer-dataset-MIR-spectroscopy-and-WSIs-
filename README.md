@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a small supplementary repository to support the handling of the Multimodal colorectal cancer dataset (FT-IR spectroscopy and Whole Slide Imaging) available on Zenodo under DOI: [10.5281/zenodo.17790337](https://doi.org/10.5281/zenodo.17790337).
+This is a small supplementary repository to support the handling of the Multimodal colorectal cancer dataset (FT-IR spectroscopy and Whole Slide Imaging) available on Zenodo.
 
 ```bash 
 training
@@ -18,6 +18,9 @@ training
 - <strong>CRC_metadata_val.ipynb</strong>: a notebook containing some basic analysis on the main metadata files.
 - <strong>WSI_technval.ipynb</strong>: the technical validation workflow of the Whole Slide Images using OpenSlide Python complete with tissue core-wise sharpness computation and circle detection.
 - <strong>MIR_technval.ipynb</strong>: the technical validation workflow of the mid-infrared spectroscopy dataset and some data analysis tools: conversion from transmittance to absorbance, filtering out background spectra, signal-to-noise ratio distributions, the presence of atmospheric effects, and baseline drift.
+
+## Data availability
+The mentioned dataset is available in the following Zenodo repository: Borkovits, B. et al. Multimodal colorectal cancer dataset (FT-IR spectroscopy and Whole Slide Imaging). Zenodo. [10.5281/zenodo.17790337](https://doi.org/10.5281/zenodo.17790337) (2025).
 
 ## Citation
 
