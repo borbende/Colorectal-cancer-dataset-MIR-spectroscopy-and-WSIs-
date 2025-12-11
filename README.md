@@ -12,7 +12,7 @@ training
 ```
 
 - <strong>MIR_fsm_to_txt.ipynb</strong>: a function that uses the specio Python package to load .fsm files and then converts them into .txt tables and generates the spatial positions of the mid-infrared spectra, while also saving the spectral metadata to a .json file.
-- CRC_data_showcase.ipynb: an example notebook for looking at the different data types in the database.
-- CRC_metadata_val.ipynb: a notebook containing some basic analysis on the main metadata files.
-- WSI_technval.ipynb: the technical validation workflow of the Whole Slide Images using OpenSlide Python complete with tissue core-wise sharpness computation and circle detection.
-- MIR_technval.ipynb: the technical validation workflow of the mid-infrared spectroscopy dataset and some data analysis tools: conversion from transmittance to absorbance, filtering out background spectra, signal-to-noise ratio distributions, the presence of atmospheric effects, and baseline drift.
+- <strong>CRC_data_showcase.ipynb</strong>: an example notebook for looking at the different data types in the database.
+- <strong>CRC_metadata_val.ipynb</strong>: a notebook containing some basic analysis on the main metadata files.
+- <strong>WSI_technval.ipynb</strong>: the technical validation workflow of the Whole Slide Images using OpenSlide Python complete with tissue core-wise sharpness computation and circle detection.
+- <strong>MIR_technval.ipynb</strong>: the technical validation workflow of the mid-infrared spectroscopy dataset and some data analysis tools: conversion from transmittance to absorbance, filtering out background spectra, signal-to-noise ratio distributions, the presence of atmospheric effects, and baseline drift.
