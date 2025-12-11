@@ -1,5 +1,7 @@
 # Colorectal-cancer-dataset-MIR-spectroscopy-and-WSIs-
 
+## Description
+
 This is a small supplementary repository to support the handling of the Multimodal colorectal cancer dataset (FT-IR spectroscopy and Whole Slide Imaging) available on Zenodo under DOI: [10.5281/zenodo.17790337](https://doi.org/10.5281/zenodo.17790337).
 
 ```bash 
@@ -16,3 +18,14 @@ training
 - <strong>CRC_metadata_val.ipynb</strong>: a notebook containing some basic analysis on the main metadata files.
 - <strong>WSI_technval.ipynb</strong>: the technical validation workflow of the Whole Slide Images using OpenSlide Python complete with tissue core-wise sharpness computation and circle detection.
 - <strong>MIR_technval.ipynb</strong>: the technical validation workflow of the mid-infrared spectroscopy dataset and some data analysis tools: conversion from transmittance to absorbance, filtering out background spectra, signal-to-noise ratio distributions, the presence of atmospheric effects, and baseline drift.
+
+## Citation
+
+The Zenodo dataset was submitted in the following article: ""
+Until publication please cite one of the articles in the next section.
+
+## Related articles
+These already published articles processed a small part of the dataset.
+1. Borkovits B, Kontsek E, Pesti A, et al. Classification of colorectal primer carcinoma from normal colon with mid-infrared spectra. Journal of Chemometrics. 2024; 38(7):e3542. [doi:10.1002/cem.3542](https://doi.org/10.1002/cem.3542)
+2. Borkovits, B., Török, C., Kontsek, E. et al. Fourier transform mid-infrared imaging and rapid evaporative ionization mass spectrometry imaging in FFPE colorectal adenocarcinoma samples. Pathologie (2025). [https://doi.org/10.1007/s00292-025-01502-1](https://doi.org/10.1007/s00292-025-01502-1)
+
