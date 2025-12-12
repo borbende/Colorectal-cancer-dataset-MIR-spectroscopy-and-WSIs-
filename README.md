@@ -25,9 +25,7 @@ The mentioned dataset is available in the following Zenodo repository: Borkovits
 
 ## Citation
 
-Please cite: ""
-
-Until publication please cite one of the articles in the next section.
+Please cite one of the articles in the next section.
 
 ## Related articles
 These already published articles processed a small part of the dataset.
