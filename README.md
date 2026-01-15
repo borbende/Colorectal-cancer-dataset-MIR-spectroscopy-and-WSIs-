@@ -1,4 +1,4 @@
-# Colorectal-cancer-dataset-MIR-spectroscopy-and-WSIs-
+# Colorectal cancer dataset MIR spectroscopy and WSIs
 
 ## Description
 
